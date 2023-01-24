@@ -93,7 +93,7 @@ df.head(2)
 # In[23]:
 
 
-# Makeing seperate day month year
+# Making separate day month year
 
 
 # In[24]:
